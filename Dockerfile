@@ -1,2 +1,2 @@
 FROM alpine:3.8
-RUN exit 1
+RUN exit 147
